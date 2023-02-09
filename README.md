@@ -31,7 +31,7 @@ ___
 | [vistacreate](https://create.vista.com/) | Tons of buil-in social media templates, logo maker, posters|
 | [socialsizes](https://socialsizes.io/) | Download the correct Image and Video sizes for Social Media |
 | [Photopea](https://www.photopea.com/) | Alternative for Photoshop 9Free!)|
-| [PIXLR](https://pixlr.com/) | AI-powered photo editing. <br>Photoshop alternative created by AutoDesk|\
+| [PIXLR](https://pixlr.com/) | AI-powered photo editing. <br>Photoshop alternative created by AutoDesk|
 
 ___
 
@@ -47,7 +47,7 @@ ___
 | [Blender](https://www.blender.org/) | 3D creation suite| Linux, macOS, Windows |
 | [Darltable](https://www.darktable.org/) | an image editor. Lightroom alternative. Great for beginners| Linux, macOS, Windows |
 | [Paint.NET](https://www.getpaint.net/) | A simple photo editor. <br>Extensions are available to make if more versatile. <br>Great for beginners| Windows |
-[PhtoScape X](http://x.photoscape.org/) | A Photo editor. <br>Offers the same brushes and tools as Photoshop. <br>Great for Beginners| Windows |\
+[PhtoScape X](http://x.photoscape.org/) | A Photo editor. <br>Offers the same brushes and tools as Photoshop. <br>Great for Beginners| Windows |
 ___
 
 
@@ -60,8 +60,10 @@ ___
 | [Google Fonts](https://fonts.google.com/) | One of the most used free fonts resources |
 | [DaFont](https://www.dafont.com/) | Thousands of great free & new fonts|
 | [1001 Free Fonts](https://www.1001freefonts.com/) | Probably more than 1001 fonts!?!|
+| [Dev Fonts](https://devfonts.gafi.dev/) | Archive of freely downloadable fonts + code!|
 | [BeFonts](https://befonts.com/) | Beautiful fonts for personal use. <br>Some full licensed version need to be purchased|
-| [Use Modify](https://usemodify.com/) | A large collection of free fonts <br>from classy to weird|\
+| [Use Modify](https://usemodify.com/) | A large collection of free fonts <br>from classy to weird|
+| [FF Fonts](https://www.ffonts.net/top-fonts.html) | Tons of Free fonts|
 
 ## **Colors**
 ---
@@ -81,11 +83,18 @@ ___
 
 ## **Icons**
 ---
-> Free and Open Source Icons
+> Free and Premium Icons, stock photos & and design tools
 
 | **Website** | **Description** |
 | ----------- | ----------- |
-| [ionic](https://ionic.io/ionicons) | Premium designed icons for use in web, iOS, Android, and desktop apps.|\
+| [ionic](https://ionic.io/ionicons) | Premium designed icons for use in web, iOS, Android, and desktop apps.|
+[flaticon](https://www.flaticon.com/) | 9.2m+ vector icons & stickers| 
+[icon8](https://icons8.com/) | icons, illustrations, photos, music & design tools|
+[Iconscout](https://iconscout.com/) | Free Download Vector Icons illustrations stock photos|
+[Feather Icons](https://feathericons.com/) | Minimalist and Beautiful Free Open Source Icons|
+[Iconfinder](https://www.iconfinder.com/) | Free and premium vector icons in SVG, PNG, CSH and AI format|
+[Heroicons](https://heroicons.dev/) | MIT-licensed open source icons
+[The Noun Project](https://thenounproject.com) | Icons & Photos|\
 ---
 
 
