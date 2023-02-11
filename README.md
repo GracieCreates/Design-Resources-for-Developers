@@ -1,28 +1,28 @@
 ## Design Resources for Developers 2023
 
-# Table of ontent
+# Table of Content
 ![Design Tools for Developers](Design_Tools.jpg)
 
-- UI Graphics
-- Browser-Based Design Tools
-- Downloadable Design Software
-- Fonts
-- Colors
-- Icons
-- Free SVG Patterns
-- Others
+- [UI Graphics](#UI-Graphics)
+- [Browser-Based Design Tools](#Browser-Based-Design-Tools)
+- [Downloadable Design Software](#downloadable-design-tools)
+- [Fonts](#fonts)
+- [Colors](#colors)
+- [Icons](#icons)
+- [Free SVG Patterns](#free-svg-patterns)
+- [Others](#others)
 ---
-## **UI Graphics**
+### <a id="UI-Graphics"></a><h2>UI Graphics</h2>
 ---
 > Website UI Component
 
 | **Website** | **Description** |
 | ----------- | ----------- |
 | [UI Space](https://uispace.net/) | Thousands of great freebies |
-| Paragraph | Text |\
+
 
 ___
-## **Brower-based Design Tools**
+### <a id="Browser-Based-Design-Tools"></a><h2>Browser-Based Design Tools</h2>
 ---
 > Photo, video editor, graphic design, wireframing tools in your browser or phone.
 
@@ -36,7 +36,7 @@ ___
 
 ___
 
-## **Downloadable Design Tools**
+### <a id="downloadable-design-tools"></a><h2>Downloadable Design Tools</h2>
 ---
 > Open Source and Free Graphic design, 3D, vector tools for your desktop, tablet and phone. <br> **Photoshop & Illustrator** alternatives
 
@@ -52,7 +52,7 @@ ___
 ___
 
 
-## **Fonts**
+### <a id="fonts"></a><h2>Fonts</h2>
 ---
 > Free and Open Source Fonts
 
@@ -66,7 +66,7 @@ ___
 | [Use Modify](https://usemodify.com/) | A large collection of free fonts <br>from classy to weird|
 | [FF Fonts](https://www.ffonts.net/top-fonts.html) | Tons of Free fonts|
 
-## **Colors**
+### <a id="colors"></a><h2>Colors</h2>
 ---
 > Color palettes, color wheels, shadows and gradients
 
@@ -82,7 +82,7 @@ ___
 | [Adobe Color](https://color.adobe.com/create/color-wheel) | **Probably the most comprehensive Color Wheel, Palette. Theme & Gradient tool|
 | [WebGradients](https://webgradients.com/) | Easy copy > 180 liner gradients CSS3|\
 
-## **Icons**
+### <a id="icons"></a><h2>Icons</h2>
 ---
 > Free and Premium Icons, stock photos & and design tools
 
@@ -99,7 +99,7 @@ ___
 ---
 
 
-## **Design Inspirations**
+### <a id="design-inspirations"></a><h2>Design Inspirations</h2>
 ---
 > Beautiful Websites, Designers
 
@@ -107,7 +107,7 @@ ___
 | ----------- | ----------- |
 | [httpster](https://httpster.net/) | Web design inspiration from all over the world|\
 ___
-## **Free SVG Patterns**
+### <a id="free-svg-patterns"></a><h2>Free SVG Patterns</h2>
 ---
 > High-res SVG pattrns for backgrounds, supported by all modern browsers
 
@@ -120,7 +120,7 @@ ___
 |[Hero Patterns](https://heropatterns.com/) | Tools for making small websites fast|
 |[Pattern Ninja](https://patterninja.com/) | Pattern-making tool with free images or download your own image to create patterns|
 ---
-## **Others**
+### <a id="others"></a><h2>Others</h2>
 ---
 > Beautiful Websites, Designers
 
