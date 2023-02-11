@@ -9,6 +9,7 @@
 - Fonts
 - Colors
 - Icons
+- Free SVG Patterns
 - Others
 ---
 ## **UI Graphics**
@@ -106,7 +107,19 @@ ___
 | ----------- | ----------- |
 | [httpster](https://httpster.net/) | Web design inspiration from all over the world|\
 ___
+## **Free SVG Patterns**
+---
+> High-res SVG pattrns for backgrounds, supported by all modern browsers
 
+| **Website** | **Description** |
+| ----------- | ----------- |
+| [SVG Background](https://www.svgbackgrounds.com/) | Customize and apply background fast. Can either download or copy attribution!|
+| [paaatterns](hhttps://products.ls.graphics/paaatterns/) | For Sketch, Figma, XD, Illustrator. In png and svg|
+|[Doodad.dev](https://doodad.dev/) | SVG pattern tool to make small website fast|
+|[wowpatterns](https://www.wowpatterns.com/)|Tons of free & colorful SVG patterns for print and web|
+|[Hero Patterns](https://heropatterns.com/) | Tools for making small websites fast|
+|[Pattern Ninja](https://patterninja.com/) | Pattern-making tool with free images or download your own image to create patterns|
+---
 ## **Others**
 ---
 > Beautiful Websites, Designers
