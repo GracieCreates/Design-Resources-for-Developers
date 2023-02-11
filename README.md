@@ -114,7 +114,7 @@ ___
 | **Website** | **Description** |
 | ----------- | ----------- |
 | [SVG Background](https://www.svgbackgrounds.com/) | Customize and apply background fast. Can either download or copy attribution!|
-| [paaatterns](hhttps://products.ls.graphics/paaatterns/) | For Sketch, Figma, XD, Illustrator. In png and svg|
+| [paaatterns](https://products.ls.graphics/paaatterns/) | For Sketch, Figma, XD, Illustrator. In png and svg|
 |[Doodad.dev](https://doodad.dev/) | SVG pattern tool to make small website fast|
 |[wowpatterns](https://www.wowpatterns.com/)|Tons of free & colorful SVG patterns for print and web|
 |[Hero Patterns](https://heropatterns.com/) | Tools for making small websites fast|
