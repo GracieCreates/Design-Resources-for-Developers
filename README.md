@@ -95,7 +95,7 @@ ___
 [Feather Icons](https://feathericons.com/) | Minimalist and Beautiful Free Open Source Icons|
 [Iconfinder](https://www.iconfinder.com/) | Free and premium vector icons in SVG, PNG, CSH and AI format|
 [Heroicons](https://heroicons.dev/) | MIT-licensed open source icons
-[The Noun Project](https://thenounproject.com) | Icons & Photos|\
+[The Noun Project](https://thenounproject.com) | Icons & Photos|
 ---
 
 
@@ -105,7 +105,12 @@ ___
 
 | **Website** | **Description** |
 | ----------- | ----------- |
-| [httpster](https://httpster.net/) | Web design inspiration from all over the world|\
+| [httpster](https://httpster.net/) | Web design inspiration from all over the world|
+| [Awwwards](https://www.awwwards.com/websites/) | Discover of the best designers, web developers and digital agencies.|
+| [Editor X](https://www.editorx.com/inspiration?ref=editorx_new_hp_showroom) | Design Showroom: modern websites created by Editor X|
+| [onepagelove](https://onepagelove.com/) | One Page websites, templates and resources|
+| [Landbook](https://land-book.com/) | curated web design gallery for Creatives|
+
 ___
 ### <a id="free-svg-patterns"></a><h2>Free SVG Patterns</h2>
 ---
@@ -126,4 +131,4 @@ ___
 
 | **Website** | **Description** |
 | ----------- | ----------- |
-| [zyro](https://zyro.com/tools/image-upscaler) | AI Image Upscaler: enhance image resolution|\
+| [zyro](https://zyro.com/tools/image-upscaler) | AI Image Upscaler: enhance image resolution|
